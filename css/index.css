@@ -118,7 +118,7 @@
 }
 .header-cont{
     font-size: 14px;
-    margin-top: 15px;
+    margin-top: 6px;
 }
 .header-logo{
   margin-top: 16px;
@@ -127,7 +127,7 @@
   margin-top: 11px;
 }
 .menu{
-    margin-top: 96px;
+    margin-top: 65px;
     width: 24%;
     height: 1600px;
 }
@@ -151,7 +151,7 @@ body{
     float: right;
 }
 .body-fluid{
-    margin-top: 97px;
+    margin-top: 65px;
 }
 .body-row{
     margin-top: 6px;
